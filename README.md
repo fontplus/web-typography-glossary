@@ -69,9 +69,10 @@ Webフォントサービスを提供するFONTPLUSによるサポートのもと
 - UDフォント
 
 ## ライセンス
-[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a>
 
 ## クレジット
 執筆：[鈴木丈](https://github.com/terkel)  
 編集：矢代真也  
-協賛：[FONTPLUS](https://webfont.fontplus.jp)
+協賛：<a href="https://webfont.fontplus.jp" target="_blank">FONTPLUS</a>
