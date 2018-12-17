@@ -2,7 +2,8 @@
 
 ウェイトはフォントの太さのことです。太いウェイトを「重い」、細いウェイトを「軽い」と表現することもあります。フォントファミリーの多くは複数のウェイトから構成されます。ウェイトごとの名称はフォントによって異なり、「ライト」「ノーマル」「ミディアム」「ボールド」「ヘヴィ」など様々です。
 
-![](https://drafts.csswg.org/css-fonts-3/optimaweights.png)
+![](https://drafts.csswg.org/css-fonts-3/optimaweights.png)  
+（ <a href="https://drafts.csswg.org/css-fonts-3/" target="_blank">CSS Fonts Module｜W3.ORG</a>  より）
 
 ## 機能
 
