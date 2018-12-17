@@ -1,8 +1,9 @@
-# Webタイポグラフィ用語集（仮）supported by FONTPLUS
+# Webタイポグラフィ必携用語集
 
 ## 概要
-
-ここに企画全体の説明が入る。
+Webタイポグラフィーに関するキーワードを解説。
+日本語でも普及し始めてきたWebフォントだが、英語圏に比べ、そのノウハウは、あまり蓄積されておらず、議論も少ない。
+Webフォントサービスを提供するFONTPLUSによるサポートのもと、ウェブと日本語のあり方の議論するための場所をつくる。
 
 ## 目次
 ### 文字のかたち
@@ -57,7 +58,7 @@
 - 圏点
 - 分かち書き
 
-### 書体
+### 様々な書体
 - ゴシック体
 - 明朝体
 - 等幅フォント
@@ -67,17 +68,10 @@
 - コンデンス体
 - UDフォント
 
-## コントリビューション
-
-「こういう風に参加してほしい」と書く。（概要の下でもいいかも？）
-
 ## ライセンス
-
-BSD License (3-clause BSD License)？？？
-ref https://qiita.com/shibukk/items/67ad0a5eda5a94e5c032
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## クレジット
-
-FONTPLUS
-タケルさん
-などが列挙？
+執筆：[鈴木丈](https://github.com/terkel)  
+編集：矢代真也  
+協賛：[FONTPLUS](https://webfont.fontplus.jp)
