@@ -29,29 +29,7 @@ Webフォントサービスを提供するFONTPLUSによるサポートのもと
 - [ゴシック体](./gothic.md)
 - [等幅フォント](./monospaced-font.md)
 
-### ウェブにおける文字
-
-- Adobe-Japan1
-- JIS X 0213：2004
-- OpenType
-- OpenType機能
-- TrueType
-- WOFF
-- EOT
-- ClearType
-- DirectWrite
-- アンチエイリアス
-- エンコーディング
-- 文字コード
-- 文字セット
-- Unicode
-- ウェブフォント
-- サブセッティング
-- FOUT
-- FOIT
-- lang属性
-
-### テキストを組む
+### 文字を組む
 
 - スモールキャップス
 - オールキャップス
@@ -75,12 +53,30 @@ Webフォントサービスを提供するFONTPLUSによるサポートのもと
 - ルビ
 - 圏点
 - 分かち書き
+- 和欧混植
+- 従属欧文
 
-### 様々な書体
+### ウェブと文字
 
-- 学参フォント
-- コンデンス体
-- UDフォント
+- Adobe-Japan1
+- JIS X 0213：2004
+- OpenType
+- OpenType機能
+- TrueType
+- WOFF
+- EOT
+- ClearType
+- DirectWrite
+- アンチエイリアス
+- エンコーディング
+- 文字コード
+- 文字セット
+- Unicode
+- ウェブフォント
+- サブセッティング
+- FOUT
+- FOIT
+- lang属性
 
 ## コントリビューション
 項目・内容について、疑問・質問・提案などがあれば、Issueを立ててください。
