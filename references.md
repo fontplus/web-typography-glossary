@@ -1,6 +1,6 @@
 # 参考文献
 
-## ウェブ
+## Web
 
 - [TYPOGRAPHY タイポグラフィ 実践用語集](http://robundo.com/robundo/typography-glossary/)
 - [フォント用語集 | 文字の手帖 | 株式会社モリサワ](https://www.morisawa.co.jp/culture/dictionary/)
