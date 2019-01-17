@@ -12,21 +12,21 @@ Webタイポグラフィに関するキーワードを解説、同分野にお�
 
 ### 文字のかたち
 
-- [字体](./jitai.md)
-- [異体字](./itaiji.md)
-- [字形](./jikei.md)
-- [書体](./typeface.md)
-- [フォント](./font.md)
-- [グリフ](./glyph.md)
-- [ファミリー](./family.md)
-- [ウェイト](./weight.md)
-- [イタリック体](./italic.md)
-- [ローマン体](./roman.md)
-- [セリフ体](./serif.md)
-- [サンセリフ体](./sans-serif.md)
-- [明朝体](./mincho.md)
-- [ゴシック体](./gothic.md)
-- [等幅フォント](./monospaced-font.md)
+- [字体](./terms/jitai.md)
+- [異体字](./terms/itaiji.md)
+- [字形](./terms/jikei.md)
+- [書体](./terms/typeface.md)
+- [フォント](./terms/font.md)
+- [グリフ](./terms/glyph.md)
+- [ファミリー](./terms/family.md)
+- [ウェイト](./terms/weight.md)
+- [イタリック体](./terms/italic.md)
+- [ローマン体](./terms/roman.md)
+- [セリフ体](./terms/serif.md)
+- [サンセリフ体](./terms/sans-serif.md)
+- [明朝体](./terms/mincho.md)
+- [ゴシック体](./terms/gothic.md)
+- [等幅フォント](./terms/monospaced-font.md)
 
 ### 文字を組む
 
