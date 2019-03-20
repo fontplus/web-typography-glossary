@@ -30,15 +30,15 @@ Webタイポグラフィに関するキーワードを解説、同分野にお�
 
 ### 文字を組む
 
-- [ボディ](./termas/body.md)
-- [字面](./termas/face.md)
-- [サイドベアリング](./termas/side-bearing.md)
-- [全角](./termas/fullwidth.md)
+- [ボディ](./terms/body.md)
+- [字面](./terms/face.md)
+- [サイドベアリング](./terms/side-bearing.md)
+- [全角](./terms/fullwidth.md)
 - [プロポーショナルメトリクス](./terms/proportional-metrics.md)
 - [字間](./terms/letter-space.md)
 - [ベタ組み](./terms/betagumi.md)
 - [カーニング](./terms/kerning.md)
-- [トラッキング](./termas/tracking.md)
+- [トラッキング](./terms/tracking.md)
 - スモールキャップス
 - オールキャップス
 - リガチャ
