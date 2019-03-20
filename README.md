@@ -30,19 +30,22 @@ Webタイポグラフィに関するキーワードを解説、同分野にお�
 
 ### 文字を組む
 
+- [ボディ](./termas/body.md)
+- [字面](./termas/face.md)
+- [サイドベアリング](./termas/side-bearing.md)
+- [全角](./termas/fullwidth.md)
+- [プロポーショナルメトリクス](./terms/proportional-metrics.md)
+- [字間](./terms/letter-space.md)
+- [ベタ組み](./terms/betagumi.md)
+- [カーニング](./terms/kerning.md)
+- [トラッキング](./termas/tracking.md)
 - スモールキャップス
 - オールキャップス
 - リガチャ
-- カーニング
-- [プロポーショナルメトリクス](./terms/proportional-metrics.md)
-- ベタ組み
-- アケ組み
-- ツメ組み
 - 文字サイズ
 - 行間・行高
 - レディング
 - 行長・字詰め
-- 字間・字送り・トラッキング
 - 上付き文字・下付き文字
 - ハイフネーション
 - ジャスティフィケーション
