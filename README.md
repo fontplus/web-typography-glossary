@@ -94,4 +94,4 @@ Webタイポグラフィに関するキーワードを解説、同分野にお�
 編集：[矢代真也](https://github.com/syyashiro)  
 協賛：[FONTPLUS](https://webfont.fontplus.jp)</a>  
 
-（[参考文献一覧](references.md)）
+（[参考資料一覧](references.md)）
