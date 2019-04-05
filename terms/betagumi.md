@@ -17,5 +17,5 @@ CSSにの字間の調整に関連するプロパティには`letter-spacing`と`
 ## 関連項目
 
 - [字間](./letter-space.md)
-- （*TODO* [アケ組み](./akegumi.md)）
-- （*TODO*[ツメ組み](./tsumegumi.md)）
+- [カーニング](./kerning.md)
+- [トラッキング](./tracking.md)
