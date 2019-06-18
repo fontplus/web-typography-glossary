@@ -6,7 +6,7 @@
 
 ## 実践
 
-CSSで中法揃えにするには、`text-align`プロパティで`center`を指定します。
+CSSで中央揃えにするには、`text-align`プロパティで`center`を指定します。
 
 ```css
 p {
