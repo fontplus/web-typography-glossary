@@ -8,13 +8,22 @@
 
 ## 実践
 
-段落の先頭行をインデントするには`text-indent`プロパティを利用します。マイナス値を指定するとアウトデントになります。段落全体をインデントする場合は`padding-left`や`margin-left`プロパティを利用します。
+段落の先頭行をインデントするには`text-indent`プロパティを利用します。マイナス値を指定するとアウトデントになります。段落全体をインデントする場合は`padding`や`margin`プロパティを利用します。
 
 ```css
 p {
   margin-top: 0;
-  matgin-bottom: 0;
+  margin-bottom: 0;
   text-indent: 1em;
+}
+
+ul {
+  padding-left: 2em;
+}
+
+ul li {
+  list-style-type: none;
+  text-indent: -2em;
 }
 
 blockquote {
