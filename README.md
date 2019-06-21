@@ -27,26 +27,26 @@ Webタイポグラフィに関するキーワードを解説、同分野にお�
 - [明朝体](./terms/mincho.md)
 - [ゴシック体](./terms/gothic.md)
 - [等幅フォント](./terms/monospaced-font.md)
-
-### 文字を組む
-
 - [ボディ](./terms/body.md)
 - [字面](./terms/face.md)
 - [サイドベアリング](./terms/side-bearing.md)
 - [全角](./terms/fullwidth.md)
-- [プロポーショナルメトリクス](./terms/proportional-metrics.md)
+
+### 行を組む
+
+- [文字サイズ](./terms/font-size.md)
 - [字間](./terms/letter-space.md)
 - [ベタ組み](./terms/betagumi.md)
 - [カーニング](./terms/kerning.md)
 - [トラッキング](./terms/tracking.md)
+- [プロポーショナルメトリクス](./terms/proportional-metrics.md)
+- [行送り（レディング）](./terms/leading.md)
+- [行間](./terms/line-space.md)
 - [行揃え](./terms/text-alignment.md)
 - [行頭揃え](./terms/flush-left.md)
 - [行末揃え](./terms/flush-right.md)
 - [中央揃え](./terms/centered.md)
 - [両端揃え](./terms/justified.md)
-- [文字サイズ](./terms/font-size.md)
-- [行送り（レディング）](./terms/leading.md)
-- [行間](./terms/line-space.md)
 - [インデント](./terms/indent.md)
 - スモールキャップス
 - オールキャップス
