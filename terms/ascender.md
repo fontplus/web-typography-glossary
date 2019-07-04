@@ -6,6 +6,7 @@
 
 ## 関連項目
 
+- [ベースライン](./baseline.md)
 - [キャップハイト](./cap-height.md)
 - [エックスハイト](./x-height.md)
 - [ディセンダー](./descender.md)
