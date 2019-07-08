@@ -12,7 +12,7 @@ CSSの`vertical-align`プロパティの初期値は`baseline`なので、デフ
 
 ## 関連項目
 
-- [文字揃え](./vertical-align.md)
+- [文字揃え](./vertical-alignment.md)
 - [キャップハイト](./cap-height.md)
 - [エックスハイト](./x-height.md)
 - [アセンダー](./ascender.md)
