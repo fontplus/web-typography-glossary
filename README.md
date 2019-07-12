@@ -116,6 +116,7 @@ Webタイポグラフィに関するキーワードを解説、同分野にお�
 
 ## クレジット
 執筆：[鈴木丈](https://github.com/terkel)  
+図版：[伊藤涼](https://github.com/itosuzu)  
 編集：[土屋綾子](https://github.com/tsuchir)、[平松るい](https://github.com/hrmtrui)  
 協賛：[FONTPLUS](https://webfont.fontplus.jp)  
   
