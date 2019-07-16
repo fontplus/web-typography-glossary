@@ -4,6 +4,7 @@
 
 <figure>
     <img alt="Noto Sansのファミリーのバリエーションの一部" src="../images/family.png">
+    <figcaption>Noto Sansの書体バリエーション（一部）</figcaption>
 </figure>
 
 ## 実践
