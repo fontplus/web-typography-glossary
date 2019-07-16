@@ -4,6 +4,7 @@
 
 <figure>
     <img alt="字形とボディが含まれたグリフのイメージ" src="../images/glyph.png">
+    <figcaption>「あ」のグリフ</figcaption>
 </figure>
 
 ## 関連項目
