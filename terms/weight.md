@@ -4,7 +4,6 @@
 
 <figure>
   <img alt="Noto Sansのウェイトのバリエーションの一部" src="../images/weight.png">
-  <figcaption>Noto Sansのウェイトのバリエーション（一部）</figcaption>
 </figure>
 
 ## 用法
