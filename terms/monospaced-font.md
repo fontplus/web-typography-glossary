@@ -2,7 +2,7 @@
 
 等幅フォント（monospaced font）または固定幅フォント（fixed-width font）は、全てのグリフの幅が同じであるフォントをいいます。
 
-（*TODO* 図版：等幅フォントとプロポーショナルフォントの比較）
+![等幅フォントとプロポーショナルフォントの比較](../images/monospaced-font.png)
 
 ## 用法
 
