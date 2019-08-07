@@ -11,3 +11,7 @@
 
 - [字形](./jikei.md)
 - [フォント](./font.md)
+
+## 参考資料
+
+- 『+DESIGNING VOLUME 42』マイナビ出版、2016

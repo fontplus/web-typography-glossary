@@ -17,7 +17,6 @@
 - 神崎正英「スタイルシートの理論」、『セオリー・オブ・スタイルシート』技術評論社、2006
 - 髙岡昌夫『欧文組版　組版の基礎とマナー』美術出版社、2010
 - 小宮山博史［編］『タイポグラフィの基礎』誠文堂新光社、2010
-- 『+DESIGNING VOLUME 42』マイナビ出版、2016
 - サイラス・ハイスミス『欧文タイポグラフィの基本』グラフィック社、2014
 - Jason Santa Maria, <cite>On Web Typography</cite>. A Book Apart, 2014
 - Theo Rosendorf, <cite>The Typographic Desk Reference</cite>. Oak Knoll Press, 2016
