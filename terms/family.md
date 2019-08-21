@@ -2,10 +2,7 @@
 
 ファミリー（family）とは、複数のウェイトやイタリック体などのスタイルを含む、同じデザインで統一された書体のグループをいいます。たとえばHelvetica Neueやメイリオなどがファミリーにあたります。ファミリーによって書体の構成は様々で、数十のウェイトやスタイルからなるものもあれば、ひとつのスタイルしか持たないものもあります。
 
-<figure>
-    <img alt="Noto Sansのファミリーのバリエーションの一部" src="../images/family.png">
-    <figcaption>Noto Sansの書体バリエーション（一部）</figcaption>
-</figure>
+![Noto Sansのファミリーのバリエーションの一部](../images/family.png)
 
 ## 実践
 
