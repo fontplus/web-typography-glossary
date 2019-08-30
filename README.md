@@ -85,10 +85,15 @@ Webタイポグラフィに関するキーワードを解説、同分野にお�
 
 ### Webと文字
 
+- [文字コード](./terms/character-encoding.md)
+- [Unicode](./terms/unicode.md)
+- [UTF-8](./terms/utf-8.md)
+- [文字参照](./terms/character-reference.md)
+- [OpenType](./terms/opentype.md)
+- [Webフォント](./terms/web-font.md)
+- [FOUT](./terms/fout.md)
 - Adobe-Japan1
 - JIS X 0213：2004
-- OpenType
-- OpenType機能
 - TrueType
 - WOFF
 - EOT
@@ -96,13 +101,8 @@ Webタイポグラフィに関するキーワードを解説、同分野にお�
 - DirectWrite
 - アンチエイリアス
 - エンコーディング
-- 文字コード
 - 文字セット
-- Unicode
-- Webフォント
 - サブセッティング
-- FOUT
-- FOIT
 - lang属性
 
 ## コントリビューション
