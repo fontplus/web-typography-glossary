@@ -8,12 +8,15 @@ Adobe-Japan1は1993年に発表されてから何度か拡張され、それぞ�
 
 ## 関連項目
 
-- [グリフ](./glyph.md)
+- [字体](./jitai.md)
 - [字形](./jikei.md)
 - [異体字](./itaiji.md)
+- [グリフ](./glyph.md)
 - [文字コード](./character-encoding.md)
+- [JIS2004](./jis2004.md)
 
 ## 参考資料
 
 - ものかの「日本語オープンタイプフォーマットの基本」、『+DESIGNING VOLUME 44』マイナビ出版、2017
+- [Adobe-Japan1規格 - フォント専門サイト fontnavi](https://fontnavi.jp/zakkuri/303-adobe-japan1.aspx)
 - [Adobe-Japan1-7 文字コレクション](https://github.com/adobe-type-tools/Adobe-Japan1/blob/master/README-JP.md)
