@@ -25,6 +25,7 @@ html {
 ## 関連項目
 
 - [FOUT](./fout.md)
+- [サブセット（Webフォント）](./font-subsetting.md)
 
 ## 参考資料
 
