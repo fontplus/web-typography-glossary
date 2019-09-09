@@ -2,6 +2,8 @@
 
 縦中横（たてちゅうよこ、horizontal-in-vertical composition）は、縦組みの日本語テキストの中で横組みの欧文を水平に配置することをいいます。おもに3桁程度までの数字で使われます。
 
+（*TODO* 図版）
+
 ## 実践
 
 CSSで縦中横を実現するには、該当箇所に`text-combine-upright: all;`を指定します。このとき横組みのテキストは1em分の幅に収まるよう縮小されます。なお`writing-mode`プロパティの値が`horizontal-tb`のとき（つまり横組みのとき）には無効です。
