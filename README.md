@@ -10,12 +10,12 @@ Webタイポグラフィに関するキーワードを解説、同分野にお�
 
 ## 目次
 
+### 読むということ
+
+- [リーダビリティ](./terms/readability.md)
+- [レジビリティ](./terms/legibility.md)
+
 ### 文字
-
-#### 読みやすさ
-
-- [リーダビリティ]](./terms/readability.md)
-- [レジビリティ]](./terms/legibility.md)
 
 #### 文字の概念
 
@@ -35,6 +35,7 @@ Webタイポグラフィに関するキーワードを解説、同分野にお�
 - [エクスパンデッド体](./terms/extended.md)
 - [合字（リガチャー）](./ligature.md)
 - [スモールキャップ](./terms/small-caps.md)
+- [OpenType](./terms/opentype.md)
 
 #### 書体の分類
 
@@ -61,8 +62,6 @@ Webタイポグラフィに関するキーワードを解説、同分野にお�
 
 ### 行
 
-#### 行を組む
-
 - [文字サイズ](./terms/font-size.md)
 - [字間](./terms/letter-space.md)
 - [ベタ組み](./terms/betagumi.md)
@@ -85,17 +84,19 @@ Webタイポグラフィに関するキーワードを解説、同分野にお�
 - [禁則](./terms/line-breaking-rules.md)
 - [縦中横](./terms/horizontal-in-vertical.md)
 
-### Webと文字
+### コンピューターと文字
 
 - [文字コード](./terms/character-encoding.md)
 - [Unicode](./terms/unicode.md)
 - [UTF-8](./terms/utf-8.md)
 - [文字参照](./terms/character-reference.md)
-- [OpenType](./terms/opentype.md)
-- [Webフォント](./terms/web-font.md)
-- [FOUT](./terms/fout.md)
 - [Adobe-Japan1](./terms/adobe-japan1.md)
 - [JIS2004](./terms/jis2004.md)
+
+### Webと文字
+
+- [Webフォント](./terms/web-font.md)
+- [FOUT](./terms/fout.md)
 - [WOFF](./terms/woff.md)
 - [サブセット（Webフォント）](./terms/font-subsetting.md)
 
