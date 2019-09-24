@@ -100,6 +100,10 @@ Webタイポグラフィに関するキーワードを解説、同分野にお�
 - [WOFF](./terms/woff.md)
 - [サブセット（Webフォント）](./terms/font-subsetting.md)
 
+### 付録
+
+- [参考資料](references.md)
+
 ## コントリビューション
 本プロジェクトでは、みなさまの議論への参加を歓迎します。項目・内容について、疑問・質問・提案などがあれば、自由にIssueを立ててください。議論を反映しながら、更新を進めていきます。
 
@@ -115,5 +119,3 @@ Webタイポグラフィに関するキーワードを解説、同分野にお�
 図版：[伊藤涼](https://github.com/itosuzu)  
 編集：[土屋綾子](https://github.com/tsuchir)、[平松るい](https://github.com/hrmtrui)  
 協賛：[FONTPLUS](https://webfont.fontplus.jp)  
-  
-（[参考資料一覧](references.md)）
