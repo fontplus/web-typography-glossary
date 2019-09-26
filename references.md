@@ -23,6 +23,6 @@
 - Theo Rosendorf, <cite>The Typographic Desk Reference</cite>. Oak Knoll Press, 2016
 - ヨースト・ホフリ『ディテール・イン・タイポグラフィ』Book & Design、2017
 - Richard Rutter, <cite>Web Typography</cite>. Ampersand Type, 2017
-- 向井祐一『日本語組版入門　その構造とアルゴリズム』誠文堂新光社、2018
+- 向井裕一『日本語組版入門　その構造とアルゴリズム』誠文堂新光社、2018
 - 矢野啓介『改訂新版　プログラマのための文字コード技術入門』技術評論社、2019
-- 髙岡昌夫『増補改訂版　欧文組版　タイポグラフィの基礎とマナー』美術出版社、2019
+- 髙岡昌生『増補改訂版　欧文組版　タイポグラフィの基礎とマナー』美術出版社、2019
