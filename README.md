@@ -27,7 +27,7 @@ Webタイポグラフィに関するキーワードを解説、同分野にお�
 - [イタリック体](./terms/italic.md)
 - [ローマン体](./terms/roman.md)
 - [コンデンスト体](./terms/condensed.md)
-- [エクスパンデッド体](./terms/extended.md)
+- [エクステンデッド体](./terms/extended.md)
 - [合字（リガチャー）](./terms/ligature.md)
 - [スモールキャップ](./terms/small-caps.md)
 - [OpenType](./terms/opentype.md)
