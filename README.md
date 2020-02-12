@@ -27,7 +27,7 @@ Webタイポグラフィに関するキーワードを解説、同分野にお�
 - [イタリック体](./terms/italic.md)
 - [ローマン体](./terms/roman.md)
 - [コンデンスト体](./terms/condensed.md)
-- [エクスパンデッド体](./terms/extended.md)
+- [エクステンデッド体](./terms/extended.md)
 - [合字（リガチャー）](./terms/ligature.md)
 - [スモールキャップ](./terms/small-caps.md)
 - [OpenType](./terms/opentype.md)
@@ -108,7 +108,7 @@ Webタイポグラフィに関するキーワードを解説、同分野にお�
 本プロジェクトでは、みなさまの議論への参加を歓迎します。項目・内容について、疑問・質問・提案などがあれば、自由にIssueを立ててください。議論を反映しながら、更新を進めていきます。
 
 ## 更新について
-2019年1月から不定期に更新を開始し、同年9月の[第6回リリース](https://github.com/fontplus/web-typography-glossary/pull/109)をもって基本となる用語はカバーできたと考え用語の追加は一旦終了します。今後も改訂・加筆等の提案は歓迎いたしますので、ぜひ気軽にissueを立ててください。
+2019年1月から不定期に更新を開始し、同年9月の[第6回リリース](https://github.com/fontplus/web-typography-glossary/pull/109)をもって基本となる用語はカバーできたと考え用語の追加は一旦終了します。今後も改訂・加筆等の提案は歓迎いたしますので、ぜひ気軽にIssueを立ててください。
 
 ## ライセンス
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
