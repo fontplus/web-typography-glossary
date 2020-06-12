@@ -2,7 +2,7 @@
 
 ディセンダー（descender）はアルファベットの小文字「g」、「j」、「p」、「q」、「y」のベースラインより下に出ている部分のことです。ディセンダーの下端が接する仮想のラインをディセンダーライン（descender line）といいます。
 
-![「Typography」のディセンダー](../images/descender.png)
+![ラテンアルファベットの構造](../images/descender.png)
 
 ## 関連項目
 
