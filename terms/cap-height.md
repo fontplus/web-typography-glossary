@@ -2,7 +2,7 @@
 
 キャップハイト（cap height）はアルファベットの大文字のベースラインから文字の上端までの高さをいいます。キャピタルハイト（capital height）とも呼ばれます。キャップハイトの上端が接する仮想のラインをキャップライン（cap line）といいます。
 
-![「Typography」のキャップハイト](../images/cap-height.png)
+![ラテンアルファベットの構造](../images/cap-height.png)
 
 ## 関連項目
 
