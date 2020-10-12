@@ -28,7 +28,7 @@ h1 {
 - [カーニング](./kerning.md)
 - [トラッキング](./tracking.md)
 
-## 参考文献
+## 参考資料
 
 - [【真夜中のOpenTypeフィーチャー講座】プロポーショナルメトリクスと自動カーニング - Togetter](https://togetter.com/li/1083953)
 - [CSSでのOpenType機能の構文 - Adobe Help Center](https://helpx.adobe.com/jp/fonts/using/open-type-syntax.html#palt)
