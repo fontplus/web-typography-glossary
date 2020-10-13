@@ -4,8 +4,7 @@
 
 - [TYPOGRAPHY タイポグラフィ 実践用語集](http://robundo.com/robundo/typography-glossary/)
 - [フォント用語集 | 文字の手帖 | 株式会社モリサワ](https://www.morisawa.co.jp/culture/dictionary/)
-- [書体用語の単語帳 ● type.center](https://type.center/columns/25)
-- [日本語組版処理の要件（日本語版）](https://www.w3.org/TR/jlreq/ja/)
+- [日本語組版処理の要件（日本語版）](https://www.w3.org/TR/jlreq/)
 - [CSS リファレンス - CSS: カスケーディングスタイルシート | MDN](https://developer.mozilla.org/ja/docs/Web/CSS/Reference)
 - [［新版］ページネーションのための基本マニュアル](http://www.pot.co.jp/pagination/)
 
