@@ -14,6 +14,10 @@ CSSで禁則をコントロールするプロパティとして`line-break`が�
 
 なお、`word-break`プロパティに`break-all`を指定すると、環境によって禁則が無効になることがあります。終わり括弧類や句読点が行頭に配置されたり、始め括弧類が行末に配置されたりなど、不自然な体裁になってしまうため、この指定は避けるべきです。
 
+## 関連項目
+
+- [ぶら下げ](./hanging-punctuation.md)
+
 ## 参考資料
 
 - [line-break - CSS: カスケーディングスタイルシート | MDN](https://developer.mozilla.org/ja/docs/Web/CSS/line-break)

@@ -15,6 +15,7 @@
 - 小林章『欧文書体　その背景と使い方』美術出版社、2005
 - 神崎正英「スタイルシートの理論」、『セオリー・オブ・スタイルシート』技術評論社、2006
 - 小宮山博史［編］『タイポグラフィの基礎』誠文堂新光社、2010
+- 大熊肇『文字の組み方　組版／見てわかる新常識』誠文堂新光社、2010
 - <cite>The Chicago Manual of Style</cite>, 16th ed. The University of Chicago Press, 2010
 - Robert Bringhurst, <cite>The Elements of Typographic Style</cite>, 4th ed. Hartley & Marks, Publishers, 2012
 - サイラス・ハイスミス『欧文タイポグラフィの基本』グラフィック社、2014
