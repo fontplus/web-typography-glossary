@@ -14,8 +14,6 @@ article em:lang(ja) {
 }
 ```
 
-（*TODO* 図版：白抜きゴマ）
-
 ## 関連項目
 
 - [ルビ](./ruby.md)
