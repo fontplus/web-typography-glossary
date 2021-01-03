@@ -2,7 +2,7 @@
 
 縦中横（たてちゅうよこ、horizontal-in-vertical composition）は、縦組みの日本語テキストの中で横組みの欧文を水平に配置することをいいます。おもに3桁程度までの数字や単位を表す欧文などで使われます。
 
-（*TODO* 図版　縦中横になっている例文テキスト）
+![縦中横適用前後の表示の比較](../images/horizontal-in-vertical.png)
 
 ## 実践
 
