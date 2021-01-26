@@ -73,6 +73,7 @@ Webタイポグラフィに関するキーワードを解説、同分野にお�
 - [行末揃え](./terms/flush-right.md)
 - [中央揃え](./terms/centered.md)
 - [両端揃え](./terms/justified.md)
+- [ぶら下げ](./terms/hanging-punctuation.md)
 - [インデント](./terms/indent.md)
 - [字詰め](./terms/jidume.md)
 - [ハイフネーション](./terms/hyphenation.md)
